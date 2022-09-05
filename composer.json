@@ -1,5 +1,5 @@
 {
-    "name": "codeitnowin/barcode",
+    "name": "maxlipsky/barcode",
     "description": "Barcode & Qr Code generator library by http://www.codeitnow.in. You can use it with Custom PHP application or any PHP Framework such as Laravel, Cakephp, Yii, Codeigneter etc.",
     "keywords": ["barcode", "generator", "symfony", "symfony2", "Laravel", "Cakephp", "QrCode", "Qr", "Code"],
     "homepage": "http://www.codeitnow.in",
